@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Noorani Hajj & Umrah",
+    "slug": "noorani-hajj-umrah",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.noorani.hajjumrah" },
+    "android": { "package": "com.noorani.hajjumrah" }
+  }
+}

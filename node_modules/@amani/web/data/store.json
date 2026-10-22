@@ -1,0 +1,21 @@
+{
+  "users": [],
+  "otpChallenges": [
+    {
+      "id": "cd33ad48-763d-43ec-aff8-5a4c3cd90a28",
+      "mobile": "+923001234567",
+      "email": null,
+      "codeHash": "befec822fce685f3fffa82757f7cd838a0c571ee4f66d4d2875a459acec91b1d",
+      "expiresAt": 1792675780153
+    }
+  ],
+  "communityApplications": [],
+  "trackingUpdates": [
+    {
+      "journeyId": "demo",
+      "latitude": 21.4225,
+      "longitude": 39.8262,
+      "recordedAt": "2026-10-22T13:25:47.201Z"
+    }
+  ]
+}
